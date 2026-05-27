@@ -1,0 +1,35 @@
+name: deep-learning-from-scratch
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+  - defaults
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+dependencies:
+  - blas=1.0
+  - bzip2=1.0.8
+  - ca-certificates=2025.7.15
+  - certifi=2025.8.3
+  - expat=2.7.1
+  - libcxx=19.1.7
+  - libffi=3.4.4
+  - libgfortran=5.0.0
+  - libgfortran5=11.3.0
+  - libmpdec=4.0.0
+  - libopenblas=0.3.29
+  - llvm-openmp=19.1.7
+  - ncurses=6.5
+  - numpy=2.3.1
+  - numpy-base=2.3.1
+  - openssl=3.0.17
+  - pip=26.0.1
+  - python=3.13.5
+  - python_abi=3.13
+  - readline=8.3
+  - setuptools=72.1.0
+  - sqlite=3.50.2
+  - tk=8.6.15
+  - tzdata=2026a
+  - wheel=0.45.1
+  - xz=5.6.4
+  - zlib=1.2.13
+prefix: /opt/miniconda3/envs/deep-learning-from-scratch
