@@ -7,7 +7,7 @@ def identity_function(x):
 
 
 def step_function(x):
-    return np.array(x > 0, dtype=np.int)
+    return np.array(x > 0, dtype=np.int64)
 
 
 def sigmoid(x):
